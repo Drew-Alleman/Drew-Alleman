@@ -1,7 +1,7 @@
 ### Hello World! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=drew-alleman.visitor-badge)
 <br>
 
-Hi, i'm [Drew Alleman](https://www.youtube.com/channel/UCFOB2zipRrwJkQ5yKb_uc8Q) I like to build software that system and network administrators don't like. 
+Hi, i'm [Drew Alleman](https://www.youtube.com/channel/UCFOB2zipRrwJkQ5yKb_uc8Q) I like to build software that system and network administrators don't like. Feel free to contact me on [discord](https://www.discordapp.com/users/301854975636537345) for any questions or projects.
 <br><br>
 **languages and tools:**  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
