@@ -10,6 +10,6 @@ Hi, i'm [Drew Alleman](https://www.youtube.com/channel/UCFOB2zipRrwJkQ5yKb_uc8Q)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=drew-alleman&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=drew-alleman&show_icons=true&theme=cobalt" alt="stats" />
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/drewAlleman.png" alt="TryHackMe">
