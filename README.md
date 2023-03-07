@@ -8,7 +8,7 @@ Hi, i'm Drew Alleman I enjoy making software that system and network administrat
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/drewalleman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="drewalleman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFOB2zipRrwJkQ5yKb_uc8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="drewalleman" height="30" width="40" /></a>
 <a href="https://www.discordapp.com/users/301854975636537345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="301854975636537345" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
