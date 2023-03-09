@@ -6,6 +6,12 @@
 ### Hello World! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=drew-alleman.visitor-badge)
 Hi, i'm Drew Alleman I enjoy making software that system and network administrators don't like. Feel free to contact me for any questions or projects. 
 <br>
+### Some of my Write-Ups
+ * [HackyBird](https://www.youtube.com/watch?v=iFxK4my9Sqk)
+ * [Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)  
+ * [H4k3d](https://www.youtube.com/watch?v=p7jcdlAzVqw)
+ * [Vulnversity](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Vulnversity/TryHackMe%20_%20Vulnversity.pdf)
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCFOB2zipRrwJkQ5yKb_uc8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="drewalleman" height="30" width="40" /></a>
