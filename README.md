@@ -7,7 +7,8 @@
 Hi, i'm Drew Alleman I enjoy making software that system and network administrators don't like. Feel free to contact me for any questions or projects. 
 <br>
 ### Some of my Write-Ups
- * [HackyBird](https://www.youtube.com/watch?v=iFxK4my9Sqk)
+ * [Redline Traffic Analysis in Malware](https://www.youtube.com/watch?v=cx51J1IRJPI)
+ * [TryHackMe: Anonymous Walkthrough](https://www.youtube.com/watch?v=fMhXTSddccw)
  * [Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)  
  * [H4k3d](https://www.youtube.com/watch?v=p7jcdlAzVqw)
  * [Vulnversity](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Vulnversity/TryHackMe%20_%20Vulnversity.pdf)
