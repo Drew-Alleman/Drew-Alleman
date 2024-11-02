@@ -4,7 +4,7 @@
 </p>
 
 ### Hello World! 
-Hi, i'm Drew Alleman I enjoy making software that system and network administrators don't like. Feel free to contact me for any questions or projects. 
+Hi, i'm Drew I enjoy making software that system and network administrators don't like. Feel free to contact me for any questions or projects. 
 <br><br>
 ### Some of my Write-Ups
  * [Redline Traffic Analysis in Wireshark](https://www.youtube.com/watch?v=cx51J1IRJPI)
