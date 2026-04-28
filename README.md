@@ -32,15 +32,6 @@ I’m passionate about both creating and breaking software, always exploring new
 
 <h3 align="left">Languages &amp; Frameworks:</h3>
 <p align="left"><a href="https://github.com/Drew-Alleman"><img src="https://skillicons.dev/icons?i=cpp,c,cs,py,rust,powershell,bash,django,flask,linux,git&perline=11" alt="languages and frameworks" /></a></p>
-
-<h3 align="left">Security Tools:</h3>
-<table><tr>
-<td><a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="burpsuite" width="40" height="40"/></a></td>
-<td><a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a></td>
-<td><a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Cobalt-Strike.png" alt="cobalt-strike" width="40" height="40"/></a></td>
-</tr></table>
 <br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drew-alleman&show_icons=true&theme=dark&locale=en&layout=compact" alt="drew-alleman" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drew-alleman&show_icons=true&theme=dark&locale=en" alt="drew-alleman" /></p>
