@@ -17,7 +17,6 @@ I’m passionate about both creating and breaking software, always exploring new
  * **Introduction to Git and GitHub** — Google, Jul 2021
 
 ### Featured Projects
- * **[The_BOFfice](https://github.com/Drew-Alleman/The_BOFfice)** — AI-driven pipeline that converts Linux coreutils into tiered Beacon Object File collections.
  * **[wiretap](https://github.com/Drew-Alleman/wiretap)** — Stealthy Windows audio-capture POC with UDP exfiltration and randomized transmission intervals.
  * **[blight-bofs](https://github.com/Drew-Alleman/blight-bofs)** — BOF repository for an upcoming C2 framework.
  * **[DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon)** — Rust tool for extracting IPs, emails, hashes, files, credit cards, SSNs, and more from text.
