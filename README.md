@@ -1,8 +1,3 @@
-<p align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/drewAlleman.png" alt="TryHackMe">
-<br><br>
-</p>
-
 ### About Me
 Red Team Specialist focused on offensive security tooling, malware development, game hacking, and Beacon Object Files. Writing about it at [drewalleman.xyz](https://drewalleman.xyz/). 
 
